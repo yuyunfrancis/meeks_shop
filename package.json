@@ -1,0 +1,16 @@
+{
+  "name": "meeks-shop",
+  "version": "1.0.0",
+  "description": "Meeks Shopping cart app",
+  "main": "server.js",
+  "repository": "https://github.com/yuyunfrancis/meeks_shop.git",
+  "author": "yuyunfrancis <francisberi@yahoo.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node backend/server"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "express": "^4.17.1"
+  }
+}
